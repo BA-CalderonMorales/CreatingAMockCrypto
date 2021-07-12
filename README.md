@@ -7,12 +7,12 @@ Differences between Proof of Stake and Proof of Work:
 
 Proof of Work:
 ____
-  -To add each block to the chain, miners mmust compete to solve a difficult puzzle using their computers processing power.
-  -In order to add a malicious block, you'd have to have a computer more powerful than 51% of the network.
-  -The first miner to solve the puzzle is given a reward for their work.
+  1. To add each block to the chain, miners mmust compete to solve a difficult puzzle using their computers processing power.
+  2. In order to add a malicious block, you'd have to have a computer more powerful than 51% of the network.
+  3. The first miner to solve the puzzle is given a reward for their work.
 
 Proof of Stake:
 ____
-  -There is no competition as the block creator is chosen by an algorithm based on the user's stake.
-  -In order to add a malicious block, you'd have to own 51% of all the cryptocurrency on the network.
-  -There is no reward for making a block, so the block creator takes a transaction fee.
+  1. There is no competition as the block creator is chosen by an algorithm based on the user's stake.
+  2. In order to add a malicious block, you'd have to own 51% of all the cryptocurrency on the network.
+  3. There is no reward for making a block, so the block creator takes a transaction fee.
