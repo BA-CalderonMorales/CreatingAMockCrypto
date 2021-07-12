@@ -6,11 +6,11 @@ One thing I'll mention, the reddit user posted this about a year ago and the Git
 Differences between Proof of Stake and Proof of Work:
 
 Proof of Work:
--To add each block to the chain, miners mmust compete to solve a difficult puzzle using their computers processing power.
--In order to add a malicious block, you'd have to have a computer more powerful than 51% of the network.
--The first miner to solve the puzzle is given a reward for their work.
+  -To add each block to the chain, miners mmust compete to solve a difficult puzzle using their computers processing power.
+  -In order to add a malicious block, you'd have to have a computer more powerful than 51% of the network.
+  -The first miner to solve the puzzle is given a reward for their work.
 
 Proof of Stake:
--There is no competition as the block creator is chosen by an algorithm based on the user's stake.
--In order to add a malicious block, you'd have to own 51% of all the cryptocurrency on the network.
--There is no reward for making a block, so the block creator takes a transaction fee.
+  -There is no competition as the block creator is chosen by an algorithm based on the user's stake.
+  -In order to add a malicious block, you'd have to own 51% of all the cryptocurrency on the network.
+  -There is no reward for making a block, so the block creator takes a transaction fee.
